@@ -4,7 +4,7 @@ I work as a Markteting Analyst Associate in Pricing Center of Excellence at FedE
 
 
 ### About me
-Having finished my bachelor's in Computer Applications from University of Pune in 2019, I did a certifaction in Data Science and Engineering from Great Learning followed by a six-month internship in Data Science at FedEx. Healthcare Analytics-
+Having finished my bachelor's in Computer Applications from University of Pune in 2019, I did a certifaction in Data Science and Engineering from Great Learning followed by a six-month internship in Data Science at FedEx. 
 
 
 
