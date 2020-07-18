@@ -9,21 +9,21 @@ Having finished my bachelor's in Computer Applications from University of Pune i
 
 
 ### Projects
-1. <h6> Healthcare Analytics- </h6>
-To recommend the most effective treatment for diabetes (II) using the demographics and medical history of diabetic patients using Extreme Gradiant Boosting.
-Source- UCI ML repository.
+  <h6>1. Healthcare Analytics- </h6>
+         To recommend the most effective treatment for diabetes (II) using the demographics and medical history of diabetic patients using Extreme Gradiant Boosting.
+         <b>Source</b>- UCI ML repository.
 
-2. <h6> Recommendtation Engine- </h6>
-Customising newsfeed on the basis of likes and interests users' newsfeed using ML models.
-Source- Internshala
+ <h6>2. Recommendtation Engine- </h6>
+        Customising newsfeed on the basis of likes and interests users' newsfeed using ML models.
+        <b>Source</b>- Internshala
 
-3. <h6> Predicting sales- </h6>
-Big Mart supermarket sales prediction using regression models.
-Source- Analytics Vidhya
+ <h6>3. Predicting sales- </h6>
+         Big Mart supermarket sales prediction using regression models.
+         <b>Source</b>- Analytics Vidhya
 
-4. <h6> Food demand- </h6>
-Forecasting weekly food demand for a restaurant chain using CatBoostRegressor.
-Source- Analytics Vidhya
+ <h6>4. Food demand- </h6>
+        Forecasting weekly food demand for a restaurant chain using CatBoostRegressor.
+        <b>Source</b>- Analytics Vidhya
 
 
 
