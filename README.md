@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Hi, I am Khyati.
 
-You can use the [editor on GitHub](https://github.com/khyatiEXE/probable-dollop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I work as a Markteting Analyst Associate in Pricing Center of Excellence at FedEx express, Mumbai.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About me
+Having finished my bachelor's in Computer Applications from University of Pune in 2019, I did a certifaction in Data Science and Engineering from Great Learning followed by a six-month internship in Data Science at FedEx. Healthcare Analytics-
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Projects
+1. Healthcare Analytics-
+To recommend the most effective treatment for diabetes (II) using the demographics and medical history of diabetic patients using Extreme Gradiant Boosting.
+Source- UCI ML repository.
 
-- Bulleted
-- List
+2. Recommendtation Engine-
+Customising newsfeed on the basis of likes and interests users' newsfeed using ML models.
+Source- Internshala
 
-1. Numbered
-2. List
+3.Predicting sales-
+Big Mart supermarket sales prediction using regression models.
+Source- Analytics Vidhya
 
-**Bold** and _Italic_ and `Code` text
+4.Food demand-
+Forecasting weekly food demand for a restaurant chain using CatBoostRegressor.
+Source- Analytics Vidhya
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khyatiEXE/probable-dollop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Skills
+● Machine Learning -Modelling, Supervised
+Learning (Regression and Classification
+analysis), Unsupervised Learning (Clustering).
+● Exploratory Data Analysis-interpreting data,
+cleaning data, analysing results using Statistical
+techniques.
+● Data Visualization
+● Tools – Python for Data Science, MySQL,
+Tableau, Microsoft Excel
+● Programming languages- Java, C, C++,
+VB.net
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Contact
+Email- khyatisinha08@gmail.com
+DM- www.instagram.com/khaaaatii
