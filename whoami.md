@@ -51,7 +51,7 @@ Tableau, Microsoft Excel, SAS
 
 
 
-### I can be contacted at-
+### Contact-
 Email- khyatisinha08@gmail.com
 
 DM- www.instagram.com/khaaaatii
