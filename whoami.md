@@ -50,7 +50,7 @@ Tableau, Microsoft Excel, SAS
 ●<b>Programming languages</b>- Java, C, C++, VB.net
 
 
-
+ 
 ### Contact-
 Email- khyatisinha08@gmail.com 
 
