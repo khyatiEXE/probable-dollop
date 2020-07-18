@@ -1,6 +1,6 @@
 ## Hi, I am Khyati.
 
-I work as a Markteting Analyst Associate in Pricing Center of Excellence at FedEx express, Mumbai.
+I'm a 21-year-old  Markteting Analyst Associate in Pricing Center of Excellence at FedEx express, Mumbai.
 
 
 ### About me
@@ -8,13 +8,13 @@ Having finished my bachelor's in Computer Applications from University of Pune i
 
 
 
-### Projects
+### Few of my academic projects-
   <h3>1. Healthcare Analytics- </h3>
          To recommend the most effective treatment for diabetes (II) using the demographics and medical history of diabetic patients using Extreme Gradiant Boosting.
          <b>Source</b>- UCI ML repository.
 
  <h3>2. Recommendtation Engine- </h3>
-        Customising newsfeed on the basis of likes and interests users' newsfeed using ML models.
+        Customisation of users' newsfeed on the basis of patterns in likes and interests using machine learning modelling.
         <b>Source</b>- Internshala
 
  <h3>3. Predicting sales- </h3>
@@ -29,7 +29,7 @@ Having finished my bachelor's in Computer Applications from University of Pune i
 
 
 
-### Skills
+### My skills include-
 ● <b>Machine Learning</b> -Modelling, Supervised
 Learning (Regression and Classification
 analysis), Unsupervised Learning (Clustering), Time Series Forecastig
@@ -51,7 +51,7 @@ Tableau, Microsoft Excel, SAS
 
 
 
-### Contact
+### I can be contacted at-
 Email- khyatisinha08@gmail.com
 
 DM- www.instagram.com/khaaaatii
